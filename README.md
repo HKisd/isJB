@@ -1,3 +1,6 @@
+# TODO
+  Detection while Liberty (com.ryleyangus.liberty_0.1.17_iphoneos-arm.deb) Installed.
+
 # isJB
   isJB is a tool for Jailbreak Detection for iOS device, detection work with "xCon 42-beta4", "Snoop-IT", and "tsProtector 8+" installed!<br /><br />
   ![xCon 42-beta4 Installed](f.png?raw=true "xCon 42-beta4 Installed")<br />
